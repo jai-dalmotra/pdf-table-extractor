@@ -17,5 +17,13 @@ This repository contains a Python script to extract spatial and text-based table
 ```bash
 git clone https://github.com/jai-dalmotra/pdf-table-extractor.git
 cd pdf-table-extractor    
+```
 
+
+2. Install the Required Dependencies
+Make sure you have Python installed. Then, install the necessary dependencies by running:
+
+```bash
+pip install -r requirements.txt
+```
 
