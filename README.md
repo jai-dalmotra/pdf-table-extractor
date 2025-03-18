@@ -38,6 +38,23 @@ pip install -r requirements.txt
 
 - 3. The output Excel file will be saved in the output folder.
 
+---
+
+## 🛠️ Dependencies
+- PyMuPDF (for spatial extraction)
+- pdfplumber (for text-based extraction)
+- pandas (for data manipulation)
+- openpyxl (for Excel file creation)
+
+---
+
+## 📑 License
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+---
+
+## 📧 Contact
+For issues or improvements, create an issue or a pull request.
 
 
 
