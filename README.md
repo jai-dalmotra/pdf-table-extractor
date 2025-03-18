@@ -26,4 +26,15 @@ cd pdf-table-extractor
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+## 📄 Usage
+- Place your PDF file in the sample_data folder.
+- Run the script:
+  ```bash
+  python extract_tables.py
+```
+
+
+- The output Excel file will be saved in the output folder.
 
