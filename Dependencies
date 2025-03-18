@@ -1,0 +1,4 @@
+PyMuPDF (for spatial extraction)
+pdfplumber (for text-based extraction)
+pandas (for data manipulation)
+openpyxl (for Excel file creation)
