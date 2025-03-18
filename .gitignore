@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
+*.pyo
+*.pyd
 
 # C extensions
 *.so
@@ -172,3 +175,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Additional ignored files
+*.xlsx
+*.xls
+*.log
+*.tmp
+output/
+
