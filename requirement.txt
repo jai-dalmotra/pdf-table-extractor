@@ -1,0 +1,12 @@
+
+---
+
+## 📦 **2. `requirements.txt`**
+This file contains all the dependencies required to run the project.
+
+```plaintext
+PyMuPDF
+pdfplumber
+pandas
+openpyxl
+numpy
